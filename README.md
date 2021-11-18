@@ -16,6 +16,6 @@ We will be integrating the receiving, defense, and rushing statistics into one d
 
 # Method
 
-Will be integrating the three sources together using pandas in a Jupyter Notebook. From there will be using a classifier to predict the results based on the integrated data.
+Will be integrating the three sources together using pandas in a Jupyter Notebook. From there will be using an xgboost classifier to predict number of touchdowns in the 2018 Big 10 Football Season based on the integrated data, and strongest features.
 
 # Results
