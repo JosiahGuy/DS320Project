@@ -1,6 +1,11 @@
+# DS 320 Final Project
+
+To view our Jupyter notebook that includes all of our code utilized within the project, open "college_football_combined.ipynb". To view the raw data tables, view the "rawdata" folder.
+
 # Authors
 
 Josiah Guy, Katelinh Jones, Nathan Tack
+
 
 # Objective
 
