@@ -4,7 +4,7 @@ Josiah Guy, Katelinh Jones, Nathan Tack
 
 # Objective
 
-The goal of our project was to use receiving, rushing, and passing statistics from across the 2018 NCAA college football season in order to predict the number of touchdowns each team scored. Through data integration steps, we were able to combine 30 datasets and aggregate Linear Regression and XGBoost models in order to achieve results to satisfy our research question. To view more in-depth details about our project objective, data integration steps, data preprocessing and methodology, results, and conclusions, navigate the menu items at the top of this webpage.
+The goal of our project was to use receiving, rushing, and passing statistics from across the 2018 NCAA college football season in order to predict the number of touchdowns each team scored. Through data integration steps, we were able to combine 30 datasets and aggregate Linear Regression and XGBoost models in order to achieve results to satisfy our research question. To view more in-depth details about our project objective, data integration steps, data preprocessing and methodology, results, and conclusions, view our project report or visit our project website.
 
 # Links to Resources
 
