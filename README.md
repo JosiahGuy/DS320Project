@@ -1,23 +1,13 @@
-# DS320Project
+# Authors
 
-Looking at College Football Scores!
+Josiah Guy, Katelinh Jones, Nathan Tack
 
-This is the Term Project for DS 320 at PSU. Josiah Guy, Katelinh Jones, and Nathan Tack are the team members.
+# Objective
 
-# Background
+The goal of our project was to use receiving, rushing, and passing statistics from across the 2018 NCAA college football season in order to predict the number of touchdowns each team scored. Through data integration steps, we were able to combine 30 datasets and aggregate Linear Regression and XGBoost models in order to achieve results to satisfy our research question. To view more in-depth details about our project objective, data integration steps, data preprocessing and methodology, results, and conclusions, navigate the menu items at the top of this webpage.
 
-In the 2018 College Football season, sports-statistics.com collected data on the receiving, defense, and rushing statistics. These statistics provide insight into individual players and teams in the 2018 season.
+# Links to Resources
 
-# Data
+To view our presentation, click [here](https://docs.google.com/presentation/d/1OIbL84KAkPWIGSVQFOTESC3ACo10qtUzL_x6yz8MMTY/edit?usp=sharing).
 
-# Approach
-
-We will be integrating the receiving, defense, and rushing statistics into one dataset.
-
-# Method
-
-Will be integrating the three sources together using pandas in a Jupyter Notebook. From there will be using an xgboost classifier to predict number of touchdowns in the 2018 Big 10 Football Season based on the integrated data, and strongest features.
-
-# Results
-
-Opportunities for further analysis include integrating more data with more players and teams.
+To view our final report for the project, click [here](https://docs.google.com/document/d/19bNVrO0NNybSEKbsQteJVH6454eMyB6KRygCLTe8oUU/edit?usp=sharing).
